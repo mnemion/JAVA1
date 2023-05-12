@@ -39,7 +39,7 @@ public class EnumWeekExample {
 		if(today == Week.SUNDAY) {
 			System.out.println("일요일에는 잠을 6시간 잡니다.");
 		} else {
-			System.out.println("일요일에는 잠을 5시간 잡니다.");
+			System.out.println("금요일에는 잠을 5시간 잡니다.");
 		}
 	}
 }
