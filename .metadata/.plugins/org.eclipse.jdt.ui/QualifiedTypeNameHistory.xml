@@ -3,4 +3,7 @@
 <fullyQualifiedTypeName name="java.lang.System"/>
 <fullyQualifiedTypeName name="java.util.Scanner"/>
 <fullyQualifiedTypeName name="java.util.Calendar"/>
+<fullyQualifiedTypeName name="sec02.exam06.Parent"/>
+<fullyQualifiedTypeName name="sec03.exam01.Phone"/>
+<fullyQualifiedTypeName name="sec03.exam01.SmartPhone"/>
 </qualifiedTypeNameHistroy>
