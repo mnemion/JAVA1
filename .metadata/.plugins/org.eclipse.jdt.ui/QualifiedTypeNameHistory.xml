@@ -6,4 +6,10 @@
 <fullyQualifiedTypeName name="sec02.exam06.Parent"/>
 <fullyQualifiedTypeName name="sec03.exam01.Phone"/>
 <fullyQualifiedTypeName name="sec03.exam01.SmartPhone"/>
+<fullyQualifiedTypeName name="sec03.exam02.Animal"/>
+<fullyQualifiedTypeName name="sec03.exam02.Dog"/>
+<fullyQualifiedTypeName name="sec03.exam02.Cat"/>
+<fullyQualifiedTypeName name="sec04.exam02.Child"/>
+<fullyQualifiedTypeName name="sec04.exam03.Centroller"/>
+<fullyQualifiedTypeName name="sec04.exam04.ServiceExample"/>
 </qualifiedTypeNameHistroy>
