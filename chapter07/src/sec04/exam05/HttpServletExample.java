@@ -13,5 +13,4 @@ public class HttpServletExample {
 		
 		servlet.service();
 	}
-
 }
