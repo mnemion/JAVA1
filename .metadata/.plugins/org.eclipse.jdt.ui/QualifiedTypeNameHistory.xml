@@ -14,4 +14,19 @@
 <fullyQualifiedTypeName name="sec04.exam04.ServiceExample"/>
 <fullyQualifiedTypeName name="sec05.exam01.Account"/>
 <fullyQualifiedTypeName name="sec05.exam02.Account"/>
+<fullyQualifiedTypeName name="sec01.exam04.RemoteControl"/>
+<fullyQualifiedTypeName name="sec01.exam05.SmartTekevision"/>
+<fullyQualifiedTypeName name="sec01.exam05.RemoteControl"/>
+<fullyQualifiedTypeName name="sec01.exam05.Searchable"/>
+<fullyQualifiedTypeName name="java.rmi.Remote"/>
+<fullyQualifiedTypeName name="sec01.exam06.RemoteControl"/>
+<fullyQualifiedTypeName name="sec01.exam06.MyClassExample"/>
+<fullyQualifiedTypeName name="sec01.exam06.MyClass"/>
+<fullyQualifiedTypeName name="sec02.exam01.Car"/>
+<fullyQualifiedTypeName name="sec02.exam02.Driver"/>
+<fullyQualifiedTypeName name="sec02.exam02.Bus"/>
+<fullyQualifiedTypeName name="sec02.exam02.Taxi"/>
+<fullyQualifiedTypeName name="sec02.exam04.Driver"/>
+<fullyQualifiedTypeName name="sec02.exam04.Bus"/>
+<fullyQualifiedTypeName name="sec02.exam05.ImplementationC"/>
 </qualifiedTypeNameHistroy>
