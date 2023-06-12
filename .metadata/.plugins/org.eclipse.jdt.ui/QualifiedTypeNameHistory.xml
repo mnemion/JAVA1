@@ -39,4 +39,17 @@
 <fullyQualifiedTypeName name="sec02.exam06.Button"/>
 <fullyQualifiedTypeName name="sec02.exam06.CallListener"/>
 <fullyQualifiedTypeName name="sec02.exam06.MessageLstener"/>
+<fullyQualifiedTypeName name="sec02.exam09.ActionExample"/>
+<fullyQualifiedTypeName name="sec02.exam11.Car"/>
+<fullyQualifiedTypeName name="sec02.exam11.Car.Engine"/>
+<fullyQualifiedTypeName name="sec02.exam11.Car.Tire"/>
+<fullyQualifiedTypeName name="test09.Button.OnClickListener"/>
+<fullyQualifiedTypeName name="test09.Button"/>
+<fullyQualifiedTypeName name="test10.Button.OnClickListener"/>
+<fullyQualifiedTypeName name="test10.Button"/>
+<fullyQualifiedTypeName name="test10.CallListener"/>
+<fullyQualifiedTypeName name="test10.MessageListener"/>
+<fullyQualifiedTypeName name="test11.Button"/>
+<fullyQualifiedTypeName name="test11.Button.OnClickListener"/>
+<fullyQualifiedTypeName name="test11.MessageListener"/>
 </qualifiedTypeNameHistroy>

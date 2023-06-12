@@ -16,5 +16,4 @@ public class SingletonExample {
 			System.out.println("다른 Sungleton 객체입니다.");
 		}
 	}
-
 }
